@@ -31,7 +31,8 @@ This is a **Spotify Clone** built using **HTML** and **CSS**. It mimics the basi
 2. **Open `index.html`** in a browser to view the project  
 
 ## 📸 Screenshots  
-![spotify-cloneimg](https://github.com/Abdul7801/Spotify-Clone/blob/5a6e2de8480d2a0d18ba28ccba2f377c6e004d5e/Spotify-Clone.png)
+![Camera Mini Project](https://github.com/user-attachments/assets/4ffe4850-a9f2-443d-9125-ec2bf27b4cf4)
+
 
 ## 📝 License  
 This project is **free to use** and open-source.  
